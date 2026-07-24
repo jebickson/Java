@@ -1,0 +1,21 @@
+COMMON SCANNER METHODS 
+
+Methods ------------- Data Type ----------- Example
+
+nextInt()             int                   int age = sc.nextInt();
+
+nextDouble()          double                double salary = sc.nextDouble();
+
+
+nextFloat()           float                 float marks = sc.nextFloat();
+
+
+nextLong()            long                  long number = sc.nextLong();
+
+next()                Single Word           String name = sc.next();
+
+
+nextBoolean()         boolean               boolean pass = sc.nextBoolean();
+
+
+next().charAt()       char                  char grade = sc.next(). charAt(0);
