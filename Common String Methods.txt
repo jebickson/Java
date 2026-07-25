@@ -1,0 +1,10 @@
+Method                  Example                    Result
+
+length()               "Java".length()              4
+charAt()               "Java".charAt()              J
+toUpperCase()          "Java".toUpperCase()         Java
+toLowerCase()          "JAVA".toUpperCase()         java
+equals()               "Java".toLowerCase()         java
+equals()               "Java" .equals("Java")       true
+contains()        "I Love Java" .contain("Java")    true
+substring(1,3)          "Java" .substring(1,3)      av
