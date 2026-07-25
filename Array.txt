@@ -1,0 +1,5 @@
+What is an Array?
+
+An array is a collection of elements of the same data types stored in a single variable.
+Instead of creating many variables, you store all the values in one array.
+
