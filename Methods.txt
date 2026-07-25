@@ -1,0 +1,13 @@
+What is a Method ?
+
+A method is a block of code that performs a specific task. You can call the method whenever you need it,
+ istead of writing the same code repeatedly.
+
+
+ Syntax
+
+ return Type methodname(parameters){
+    // code
+    return value; // only if returnType is not void
+
+ }
