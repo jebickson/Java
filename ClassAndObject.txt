@@ -1,0 +1,20 @@
+Real-Life Analogy 
+
+Imagine cookie cutter
+
+Cookie Cutter - Class
+
+Cookies made using if - Objects
+
+One cutter (class) can create many cookies(objects).
+
+
+Difference Between Class and Objects
+
+class                   Object 
+
+Blueprint               Real insance
+Logical concept         physical entity
+Created using           Created Using
+Does not occupy memory  Occupies memory when created
+by itself                

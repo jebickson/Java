@@ -12,4 +12,15 @@ class Car {
         System.out.println("Color:"+color);
     }
 }
-// Start here
+public class CarClass{
+     
+    public static void main(String[] args){
+
+        Car car1 = new Car();
+
+        car1.brand = "Toyota";
+        car1.color = "White";
+
+        car1.display();
+    }
+}
