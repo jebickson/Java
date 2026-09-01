@@ -1,0 +1,103 @@
+Practice 1: Learning to work with Java IDE and Writing Simple Conversion Programs
+1. Temperature Converter (Celsius ↔ Fahrenheit)
+2. Currency Converter (USD ↔ EUR)
+3. Length Converter (Meters ↔ Feet)
+4. Weight Converter (Kilograms ↔ Pounds)
+5. Advanced: Universal Unit Converter (OOP Approach)
+Practice 2: Program to implement the Sorting Operation using Control Statements
+1. Bubble Sort (Simplest Sorting Algorithm)
+2. Selection Sort (Select Minimum and Swap)
+3. Insertion Sort (Insert Element in Correct Position)
+4. Merge Sort (Divide and Conquer)
+5. Quick Sort (Partition and Sort)
+6. Sort with Multiple Criteria (Using Control Statements)
+7. Interactive Sorting Demo with All Algorithms
+Practice 3: Program to implement the Stack operations using Array
+1. Basic Stack Implementation
+2. Generic Stack Implementation (Works with Any Data Type)
+3. Stack with Dynamic Resizing (Automatic Growth)
+4. Stack with All Operations (Menu-Driven)
+5. Stack Applications: Expression Evaluation
+5a. Balanced Parentheses Checker
+5b. Infix to Postfix Conversion
+6. Two Stacks in One Array
+7. Stack with Exception Handling
+Practice 4: Program to implement the Queue operations using Classes and Objects
+1. Basic Queue Implementation (Array-based)
+2. Generic Queue Implementation (Works with Any Type)
+3. Dynamic Queue (Auto-resizing)
+4. Menu-Driven Queue Application
+5. Circular Queue Implementation
+6. Queue with Exception Handling
+7. Queue Applications
+7a. Bank Counter Simulation
+7b. Josephus Problem (Queue-based Solution)
+8. Priority Queue Implementation
+Practice 5: Implement Overloading Methods, Constructors program. Implement  Tower of Hanoi program using Recursion
+Part 1: Method Overloading
+1. Basic Method Overloading
+2. Area Calculator with Method Overloading
+3. Student Management with Overloaded Methods
+Part 2: Constructor Overloading
+1. Student Class with Constructor Overloading
+2. Bank Account with Constructor Overloading
+3. Shape Hierarchy with Constructor Overloading
+Part 3: Tower of Hanoi using Recursion
+1. Classic Tower of Hanoi
+2. Tower of Hanoi with Visualization (Step-by-Step)
+3. Tower of Hanoi with Custom Input and Stats
+4. Tower of Hanoi - Recursive vs Iterative Comparison
+5. Interactive Tower of Hanoi Game
+Part 4: Combined Practice - Method Overloading + Constructor Overloading + Recursion
+Practice 6: Program to implement Linked List Concept Program to implement String Class
+Part 1: Custom Linked List Implementation
+1. Basic Singly Linked List
+2. Generic Linked List (Works with any data type)
+3. Doubly Linked List Implementation
+Part 2: Custom String Class Implementation
+1. Basic Custom String Class
+2. Extended String Class with Additional Features
+3. String Buffer Implementation (Mutable String)
+Part 3: Testing and Demonstration
+Practice 7: Program to Implement Inheritance, Method Overriding, Abstract classes and methods, 
+1. Basic Inheritance and Method Overriding
+Employee Management System
+2. Abstract Classes and Methods
+Vehicle System with Abstract Classes
+3. Multiple Inheritance with Interfaces
+Academic System with Multiple Inheritance
+4. Banking System with Abstract Methods
+5. Testing and Demonstration
+Practice 8: Program to implement the concept Packages,  Interfaces
+Part 1: Package Creation and Organization
+1. Creating a Package Structure
+2. Sub-packages
+3. Data Package
+4. Utility Package
+Part 2: Interfaces Implementation
+1. Basic Interfaces
+2. Implementing Multiple Interfaces
+3. Functional Interfaces (Java 8+)
+4. Using Functional Interfaces
+5. Interface with Constants
+6. Using the Interface Constants
+Part 3: Complete Application Demo
+Part 4: Package-info.java Files
+Part 5: Compilation and Execution
+Compilation Commands
+JAR File Creation
+Practice 9: Implement Exception Handling program
+1. Basic Exception Handling
+Custom Exceptions
+2. Banking System with Exception Handling
+3. Bank Service with Comprehensive Exception Handling
+4. Exception Handling Patterns
+5. Complete Banking Application with Exception Handling
+6. Comprehensive Exception Test
+
+Practice 10:  Implement Multithreading Program Program to Implement Binary Search Tree
+Practice 11: Program to implement the concept Legacy Classes and Binary Tree Traversal
+Practice 12: Using Utility Classes implement the program
+Practice 13: Program to  implement Event Handling concepts Program to implement Graph 
+Practice 14: AWT Controls, Layout Managers
+Practice 15: Implement the program using JDBC Connection
