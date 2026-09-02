@@ -3,12 +3,13 @@ import java.util.*;
 public class TwoNotFive {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        
-        int n = input.nextInt();
-        
-        if(n % 3 == 0)
-            System.out.println("YES");
-        else
-            System.out.println("NO");
+
+        double base1 = input.nextDouble();
+        double base2 = input.nextDouble();
+        double height = input.nextDouble();
+
+        double area = ((base1 + base2) * height) / 2.0;
+
+        System.out.println(String.format("%.2f", area));
     }
 }
